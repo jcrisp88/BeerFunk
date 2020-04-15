@@ -1,4 +1,4 @@
-# beer_funk_github
+# BeerFunk
 
 A new Flutter project.
 
